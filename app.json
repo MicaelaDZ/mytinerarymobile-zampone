@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mytinerarymobile-zampone",
+    "slug": "mytinerarymobile-zampone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mytinerarymobile-zampone"
+}
